@@ -1,7 +1,7 @@
 <script setup>
 const { searchData } = useRepoSearch();
 
-useAsyncData("repo", async () => await searchData("MikeCheng1208"));
+useAsyncData("repo", async () => await searchData("gahgah147"));
 </script>
 
 <template>
